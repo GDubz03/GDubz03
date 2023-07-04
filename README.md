@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GDubz03
-- 👀 I’m interested in becoming a full-stack developer
-- 🌱 I’m currently learning Ruby on Rails
+- 👀 I’m interested in becoming an IT Manager
+- 🌱 I’m currently learning SQL, Python, and general IT skills
 - 💞️ I’m looking to collaborate on any projects to build experience and knowledge
 - 📫 How to reach me email jqwatson96@gmail.com
 
