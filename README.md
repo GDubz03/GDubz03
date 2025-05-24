@@ -1,23 +1,12 @@
 # 👋 Hi, I'm Jaquan Greene-Watson
 
 🚀 Systems Administrator & Aspiring Cloud Engineer  
-💻 Building tools with PowerShell, Python, and Microsoft 365  
-📍 Based in the US | Available for remote work
+🔧 Automating workflows | Hardening systems | Securing data  
+📍 Based in the U.S. | Open to remote opportunities
 
 ---
 
-Hi there! I'm Jaquan, a Systems Administrator and aspiring Cloud Engineer with a strong interest in automation, scripting, and secure systems design. I specialize in building tools that streamline IT operations using PowerShell, Python, and Microsoft 365. Currently, I’m expanding into cloud technologies, cybersecurity, and workflow automation.
-
----
-
-## 🔧 Projects & Automations
-
-| Project                                                                          | Description                                     | Tech                  |
-| -------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------- |
-| [M365 License Tracker](https://github.com/GDubz03/m365-license-tracker)          | Track Microsoft 365 license usage automatically | PowerShell, Graph API |
-| [Password Reminder Bot](https://github.com/GDubz03/password-expiration-reminder) | Sends password expiry reminders to users        | PowerShell, SQL, SMTP |
-| [Notion Automator](https://github.com/GDubz03/notion-automator)                  | Automate Notion with custom workflows           | Python, Notion API    |
-| [CRM Practice App](https://github.com/GDubz03/custom-crm-portal)                 | Custom CRM + ERM hybrid portal                  | Python, SQLite, Flask |
+I'm Jaquan, a systems administrator with a passion for building practical IT automation tools. I specialize in Microsoft 365, PowerShell scripting, and infrastructure support across hybrid cloud environments. My goal is to transition into cloud security and automation engineering by developing robust, efficient, and secure systems.
 
 ---
 
@@ -31,21 +20,34 @@ Hi there! I'm Jaquan, a Systems Administrator and aspiring Cloud Engineer with a
 - **Languages**: PowerShell, Python, SQL  
 - **Cloud**: Microsoft Azure, AWS (CCP)  
 - **Systems**: Windows Server, Hyper-V, Intune, Microsoft 365 (GCC High)  
-- **Certifications**: Security+, A+, Network+, ITIL4, LPIC-1, AWS CCP  
-- **Learning**: Microsoft Certifications, Salesforce, Cybersecurity (ISC2 CC in progress)
+- **Certifications**: Security+, A+, Network+, ITIL v4, LPIC-1, AWS CCP  
+- **Currently Learning**: Cybersecurity (ISC2 CC), Azure Automation, GitHub Actions
+
+---
+
+## 🔧 Highlight Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🔐 Account Inactivity Monitor](https://github.com/GDubz03/account-inactivity-monitor) | Scans AD/M365 for inactive users and automates actions like logging or deactivation | PowerShell, Microsoft Graph |
+| [📊 M365 License Tracker](https://github.com/GDubz03/m365-license-tracker) | Tracks Microsoft 365 license usage and generates usage reports | PowerShell, Graph API |
+| [📧 Password Reminder Bot](https://github.com/GDubz03/password-expiration-reminder) | Sends password expiry reminders to users with a customizable schedule | PowerShell, SQL, SMTP |
+| [🧠 Notion Automator](https://github.com/GDubz03/notion-automator) | Automates Notion workflows and data manipulation via API | Python, Notion API |
 
 ---
 
 ## 🎯 Current Goals
 
-- ✅ Complete ISC2 Certified in Cybersecurity (CC)  
-- ⚙️ Build and share 5 automation-focused tools/scripts by end of 2025  
-- 🌐 Land a remote role in cloud engineering or security  
+- ✅ Complete ISC2 Certified in Cybersecurity (CC)
+- 🛠️ Build and maintain a portfolio of useful IT tools
+- ☁️ Transition into a cloud security or automation engineering role
 - 🎓 Complete MS in IT Management at WGU (Expected March 2026)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-- LinkedIn: [linkedin.com/in/jaquan-greene-watson](https://www.linkedin.com/in/jaquan-greenewatson)  
-- GitHub: [@GDubz03](https://github.com/GDubz03)
+- **LinkedIn**: [linkedin.com/in/jaquan-greene-watson](https://www.linkedin.com/in/jaquan-greene-watson)
+- **GitHub**: [@GDubz03](https://github.com/GDubz03)
+
+---
