@@ -45,6 +45,13 @@ I'm Jaquan, a systems administrator with a passion for building practical IT aut
 
 ---
 
+## 🧾 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 📫 Let’s Connect
 
 - **LinkedIn**: [linkedin.com/in/jaquan-greene-watson](https://www.linkedin.com/in/jaquan-greene-watson)
