@@ -1,24 +1,33 @@
-# 👋 Hi, I'm Jaquan Watson
+ Hi, I'm Jaquan Greene-Watson
 
-🎯 Cloud & Systems Administrator | Aspiring Cloud Security Engineer  
-🔐 Microsoft 365 | Azure | PowerShell | Python | Intune | Hyper-V  
-🎓 MS IT Management @ WGU | Security+ | AWS CCP | ISC2 CC
+🚀 Systems Administrator & Aspiring Cloud Engineer
+💻 Building tools with PowerShell, Python, and Microsoft 365
+📍 Based in the US | Available for remote or hybrid work
 
-## 🔧 What I’m Working On:
-- Building automation scripts for M365 + Azure environments
-- Studying for SC-200 and CySA+
-- Learning Python for cloud + security projects
-- Exploring security analytics with Microsoft Sentinel
+---
 
-## 🧠 Topics I Love:
-- Infrastructure as Code (IaC)
-- Endpoint management
-- Cloud security and compliance
-- Python scripting & backend dev
+🔧 Projects & Automations
 
-## 🚀 Current Goals:
-- Land a fully remote cloud/security-focused role
-- Publish 5+ GitHub projects by year-end
-- Contribute to open source or public cloud tools
+| Project                                                                          | Description                                     | Tech                  |
+| -------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------- |
+| [M365 License Tracker](https://github.com/GDubz03/m365-license-tracker)          | Track Microsoft 365 license usage automatically | PowerShell, Graph API |
+| [Password Reminder Bot](https://github.com/GDubz03/password-expiration-reminder) | Sends password expiry reminders to users        | PowerShell, SQL, SMTP |
+| [Notion Automator](https://github.com/GDubz03/notion-automator)                  | Automate Notion with custom workflows           | Python, Notion API    |
+| [CRM Practice App](https://github.com/GDubz03/custom-crm-portal)                 | Custom CRM + ERM hybrid portal                  | Python, SQLite, Flask |
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/jaquan-greenewatson/)
+---
+
+🧰 Skills & Tools
+
+* Languages: PowerShell, Python, SQL
+* Cloud: Microsoft Azure, AWS (CCP)
+* Systems: Windows Server, Hyper-V, Intune, M365
+* Certs: Security+, A+, Network+, ITIL4, LPIC-1, AWS CCP
+* Learning: Microsoft Certifications, Salesforce, Cybersecurity
+
+---
+
+📫 Let's Connect
+
+* LinkedIn: linkedin.com/in/jaquan-greenewatson/
+* GitHub: [@GDubz03](https://github.com/GDubz03)
